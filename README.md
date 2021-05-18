@@ -10,9 +10,9 @@
 
 Some of my Best Works are:
 
-[Filmy Hub](https://codeforces.com/profile/shivam931) <br>
-[CoronaTracker Application](https://codeforces.com/profile/shivam931) <br>
-[ChatON-Realtime Chat Application ](https://codeforces.com/profile/shivam931) <br>
+###[Filmy Hub](https://github.com/goelshivam931/Filmy-Hub-App) <br>
+###[CoronaTracker Application](https://github.com/goelshivam931/CoronaTrackerApp) <br>
+###[ChatON-Realtime Chat Application ](https://github.com/goelshivam931/ChatON-Realtime-Chat-App) <br>
 
 
 
