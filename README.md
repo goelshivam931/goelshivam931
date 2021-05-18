@@ -14,7 +14,7 @@
 ### [CoronaTracker Application](https://github.com/goelshivam931/CoronaTrackerApp) <br>
 ### [ChatON-Realtime Chat Application ](https://github.com/goelshivam931/ChatON-Realtime-Chat-App) <br>
 
-### 📫 How to reach me: goelshivam931@gmail.com;
+### 📫 How to reach me: goelshivam931@gmail.com
 
 
 
