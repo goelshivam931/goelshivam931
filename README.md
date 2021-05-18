@@ -8,7 +8,6 @@
 # [Codeforces Handle](https://codeforces.com/profile/shivam931)
 
 <br>
-
 # [Leetcode Handle](https://leetcode.com/goelshivam931/)
 
 <!--
