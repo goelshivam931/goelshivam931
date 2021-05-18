@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Shivam Goel
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **goelshivam931/goelshivam931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am  a  “Full Stack Web developer” skilled in the "MERN" stack and also made a lot of projects in it and want to expand my knowledge by working with the best people in the field and also Competitive Coder at “Codeforces (Max. Rating 1372)” and “Leetcode” and solved around 400+ questions across different platforms.
+
+[Codeforces Handle:](https://codeforces.com/profile/shivam931)
+[Leetcode Handle:](https://leetcode.com/goelshivam931/)
+
+
 
 Here are some ideas to get you started:
 
