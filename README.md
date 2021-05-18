@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shivam Goel
 
-<img src="https://i.ibb.co/h8SvJ31/Casual-Image-med.jpg">
+<img width="40px" src="https://i.ibb.co/h8SvJ31/Casual-Image-med.jpg">
 
 <!--
 **goelshivam931/goelshivam931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
