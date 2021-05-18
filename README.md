@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Shivam Goel   
 
 <img align="left" width="400px" src="https://i.ibb.co/h8SvJ31/Casual-Image-med.jpg">
+
+### Hi there 👋 I'm Shivam Goel   
 
 
 ### I am  a  “Full Stack Web developer” skilled in the "MERN" stack and also made a lot of projects in it and want to expand my knowledge by working with the best people in the field and also Competitive Coder at “Codeforces (Max. Rating 1372)” and “Leetcode” and solved around 400+ questions across different platforms.
