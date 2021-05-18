@@ -1,5 +1,5 @@
 
-<img align="left" width="480px" src="https://i.ibb.co/h8SvJ31/Casual-Image-med.jpg">
+<img align="left" width="490px" src="https://i.ibb.co/h8SvJ31/Casual-Image-med.jpg">
 
 ### Hi there 👋 I'm Shivam Goel   
 
