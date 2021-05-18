@@ -7,7 +7,7 @@
 
 # [Codeforces Handle](https://codeforces.com/profile/shivam931)
 <br>
-# [Leetcode Handle](https://leetcode.com/goelshivam931/)
+# [Leetcode Handle](https://leetcode.com/goelshivam931)
 
 <!--
 **goelshivam931/goelshivam931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
